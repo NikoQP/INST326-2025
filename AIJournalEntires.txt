@@ -1,3 +1,23 @@
+AI Usage Journal
+Steven Ulloa
+sulloa@terpmail.umd.edu
+Section: 0302
 *---------*
 *-Entry 1-*
 *---------*
+
+Week 1
+Ideally, I avoid getting too involved with AI. I dislike the premise, even as a tool, and am not pleased with its effect on the environment. 
+Hopefully however, these entires will allow me to explore AI with less guilt---given that it's neccesary for this class---as well as keep an
+open mind. Given my reluctance however, I ask for forgiveness this first week as I curb my exploration of AI and its uses to current class 
+topics.
+
+With that in mind; today I asked ChatGPT to help produce some Python excersizes that closely follwoed the thirty that we given as an assignment. https://chatgpt.com/share/68c74799-0888-8012-bc6b-1527819ee0b5. As far as I am aware, being detailed with your prompts is the
+bread and butter for most AI tools like GPT. Seems I was right to make that assumption. Appreciative as I am with the examples it offered, 
+I appreciate more that fact that the tool offers advice or alternatives to its generation. 
+
+Given a quick glance over these examples, I'd say this initial excursion into AI was a success. 
+I'll use a few problems GPT spewed out for practice. Maybe I'll ask Gemini or some other AI tool about further problems;
+being able to access plenty of learning models allows me to test and explore how they react differently than one another.
+I'm curious as to how people curb these models for database uses among other seeming tasks. 
+
