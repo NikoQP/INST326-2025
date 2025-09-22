@@ -2,10 +2,7 @@ AI Usage Journal
 Steven Ulloa
 sulloa@terpmail.umd.edu
 Section: 0302
-*---------*
-*-Entry 1-*
-*---------*
-
+------------------------------------------------------------------------------------
 Week 1
 Ideally, I avoid getting too involved with AI. I dislike the premise, even as a tool, and am not pleased with its effect on the environment. 
 Hopefully, however, these entries will allow me to explore AI with less guilt---given that it's necessary for this class---as well as keep an
@@ -17,7 +14,11 @@ As far as I am aware, being detailed with your prompts is the bread and butter f
 Seems I was right to make that assumption. Appreciative as I am of the examples it offered, 
 I appreciate more the fact that the tool offers advice or alternatives to its generation. 
 
-Given a glance over these examples, I'd say this initial excursion into AI was a success. 
+Upon reviewing these examples, this initial foray into AI was a success. 
 I'll use a few problems GPT spewed out for practice. Maybe I'll ask Gemini or some other AI tool about further problems.
 Being able to access plenty of learning models allows me to test and explore how they react differently from one another.
 I'm curious as to how people curb these models for database uses, among other tasks. 
+------------------------------------------------------------------------------------
+Week 2
+This week I did not, nor did I plan to use AI of any sorts. Next week, I might try Claude to compare it to GPT. 
+------------------------------------------------------------------------------------
