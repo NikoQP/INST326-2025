@@ -37,4 +37,10 @@ incorporating AI in a useful way then.
 Week 6
 I didn't use any AI this week. We'll see about my use in future projects.
 ------------------------------------------------------------------------------------
+Week 7
+Using GPT, I asked for guidelines and help detailing and modeling my docstrings for the classes in Project 2.
+Honestly, I'm starting to see the light in its use as a tool, despite having to fix multiple errors in structure and formatting.
+I can see the usefulness for solo-editors or developers, who may need a cursory glance at their work. GPT especially
+helped me catch mistakes or wording errors in my documentation, as I was writing at 3 in the morning. Thanks, GPT!
 
+------------------------------------------------------------------------------------
