@@ -44,3 +44,6 @@ I can see the usefulness for solo-editors or developers, who may need a cursory 
 helped me catch mistakes or wording errors in my documentation, as I was writing at 3 in the morning. Thanks, GPT!
 
 ------------------------------------------------------------------------------------
+Week 8
+I didn't use any AI this week. Might ask for some practice problems for SQL later in the coming week.
+------------------------------------------------------------------------------------
