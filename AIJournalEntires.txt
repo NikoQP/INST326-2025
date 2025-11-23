@@ -42,8 +42,10 @@ Using GPT, I asked for guidelines and help detailing and modeling my docstrings 
 Honestly, I'm starting to see the light in its use as a tool, despite having to fix multiple errors in structure and formatting.
 I can see the usefulness for solo-editors or developers, who may need a cursory glance at their work. GPT especially
 helped me catch mistakes or wording errors in my documentation, as I was writing at 3 in the morning. Thanks, GPT!
-
 ------------------------------------------------------------------------------------
 Week 9
 No AI this week. Exams take time to study for. Might do SQL-related queries later next week, though. 
+------------------------------------------------------------------------------------
+Week 10
+No AI again this week. Too much work to do! Maybe next week. 
 ------------------------------------------------------------------------------------
